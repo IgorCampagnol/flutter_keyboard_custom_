@@ -1,0 +1,8 @@
+name: flutter_keyboard_custom
+description: A versatile Flutter package offering a customizable keyboard widget for enhancing user input experiences. This package provides developers with a highly customizable keyboard solution that can be easily integrated into Flutter applications, allowing for seamless and intuitive user input interactions. With support for various keyboard layouts, including alphanumeric and numeric configurations, developers can tailor the keyboard to suit their application's specific needs. Additionally, the package offers features such as masking input, shift functionality, and customizable button styles, empowering developers to create polished and user-friendly input interfaces. Whether for login screens, forms, or custom input fields, this package simplifies the implementation of virtual keyboards, enhancing the usability and accessibility of Flutter applications.
+version: 1.0.0
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
